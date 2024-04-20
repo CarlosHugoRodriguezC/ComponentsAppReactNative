@@ -1,4 +1,4 @@
-package com.componentsapp
+package com.cahuroca.rncomponentsapp
 
 import android.os.Bundle;
 
